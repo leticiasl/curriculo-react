@@ -240,6 +240,7 @@ h3::after {
   padding: 20px 50px;
   display: flex;
   align-items: center;
+  text-align: justify;
 }
 .perfil-profissional  p {
   color: #fff;
